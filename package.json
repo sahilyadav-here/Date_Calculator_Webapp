@@ -1,5 +1,5 @@
 {
-  "name": "date_calculator_webapp",
+  "name": "@sahilyadav-here/date_calculator_webapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahilyadav-here/date_calc_webapp.git"
+    "url": "git://github.com/sahilyadav-here/date_calculator_webapp.git"
   },
   "publishConfig": { 
     "registry": "https://npm.pkg.github.com/" 
